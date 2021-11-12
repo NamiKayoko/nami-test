@@ -1,0 +1,35 @@
+D:\study\windows\QLCAFE\CafeManager\bin\Debug\CafeManager.exe.config
+D:\study\windows\QLCAFE\CafeManager\bin\Debug\CafeManager.exe
+D:\study\windows\QLCAFE\CafeManager\bin\Debug\CafeManager.pdb
+D:\study\windows\QLCAFE\CafeManager\obj\Debug\CafeManager.frmMainForm.resources
+D:\study\windows\QLCAFE\CafeManager\obj\Debug\CafeManager.Properties.Resources.resources
+D:\study\windows\QLCAFE\CafeManager\obj\Debug\CafeManager.Security.frmLogin.resources
+D:\study\windows\QLCAFE\CafeManager\obj\Debug\CafeManager.csproj.GenerateResource.Cache
+D:\study\windows\QLCAFE\CafeManager\obj\Debug\CafeManager.exe
+D:\study\windows\QLCAFE\CafeManager\obj\Debug\CafeManager.pdb
+D:\study\windows\QLCAFE\CafeManager\obj\Debug\CafeManager.csprojResolveAssemblyReference.cache
+D:\study\QLCAFE\CafeManager\bin\Debug\CafeManager.exe.config
+D:\study\QLCAFE\CafeManager\obj\Debug\CafeManager.exe
+D:\study\QLCAFE\CafeManager\obj\Debug\CafeManager.pdb
+D:\study\QLCAFE\CafeManager\bin\Debug\CafeManager.exe
+D:\study\QLCAFE\CafeManager\bin\Debug\CafeManager.pdb
+D:\study\QLCAFE\CafeManager\obj\Debug\CafeManager.csprojResolveAssemblyReference.cache
+D:\study\QLCAFE\CafeManager\obj\Debug\CafeManager.frmMainForm.resources
+D:\study\QLCAFE\CafeManager\obj\Debug\CafeManager.Properties.Resources.resources
+D:\study\QLCAFE\CafeManager\obj\Debug\CafeManager.Security.frmLogin.resources
+D:\study\QLCAFE\CafeManager\obj\Debug\CafeManager.csproj.GenerateResource.Cache
+D:\study\QLCAFE\CafeManager\obj\Debug\CafeManager.frmThongTinKhachHang.resources
+D:\study\QLCAFE\CafeManager\obj\Debug\CafeManager.ThucDon.resources
+C:\Users\ngock\OneDrive\Máy tính\nami-test\CafeManager\bin\Debug\CafeManager.exe.config
+C:\Users\ngock\OneDrive\Máy tính\nami-test\CafeManager\bin\Debug\CafeManager.exe
+C:\Users\ngock\OneDrive\Máy tính\nami-test\CafeManager\bin\Debug\CafeManager.pdb
+C:\Users\ngock\OneDrive\Máy tính\nami-test\CafeManager\obj\Debug\CafeManager.csproj.AssemblyReference.cache
+C:\Users\ngock\OneDrive\Máy tính\nami-test\CafeManager\obj\Debug\CafeManager.frmMainForm.resources
+C:\Users\ngock\OneDrive\Máy tính\nami-test\CafeManager\obj\Debug\CafeManager.Properties.Resources.resources
+C:\Users\ngock\OneDrive\Máy tính\nami-test\CafeManager\obj\Debug\CafeManager.Security.frmLogin.resources
+C:\Users\ngock\OneDrive\Máy tính\nami-test\CafeManager\obj\Debug\CafeManager.frmThongTinKhachHang.resources
+C:\Users\ngock\OneDrive\Máy tính\nami-test\CafeManager\obj\Debug\CafeManager.ThucDon.resources
+C:\Users\ngock\OneDrive\Máy tính\nami-test\CafeManager\obj\Debug\CafeManager.csproj.GenerateResource.cache
+C:\Users\ngock\OneDrive\Máy tính\nami-test\CafeManager\obj\Debug\CafeManager.csproj.CoreCompileInputs.cache
+C:\Users\ngock\OneDrive\Máy tính\nami-test\CafeManager\obj\Debug\CafeManager.exe
+C:\Users\ngock\OneDrive\Máy tính\nami-test\CafeManager\obj\Debug\CafeManager.pdb
